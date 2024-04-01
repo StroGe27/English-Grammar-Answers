@@ -1,2 +1,2 @@
 # English-Grammar-Answers
-Выдает ответы на сайте https://www.english-grammar.at/online_exercises/, при вводе URL задания
+Выдает ответы на сайте https://www.english-grammar.at/, при вводе URL задания
